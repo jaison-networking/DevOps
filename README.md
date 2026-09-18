@@ -30,10 +30,10 @@ A simple static portfolio website hosted on **Amazon S3** and delivered through 
 
 ## Project Structure
 
-AWS-Static-Portfolio/
-├── portfolio.html
-├── screenshots/
-└── README.md
+    AWS-Static-Portfolio/
+    ├── portfolio.html
+    ├── screenshots/
+    └── README.md
 
 ## What I Learned
 
